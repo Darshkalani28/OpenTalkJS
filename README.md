@@ -25,7 +25,7 @@ Before proceeding, ensure you have the following installed on your system:
    ```
 3. Clone the repository from GitHub:
    ```bash
-   git clone https://github.com/HardeepIjardar/GenAI.git
+   git clone https://github.com/darshkalani28/GenAI.git
    ```
 4. Navigate into the project directory:
    ```bash
@@ -80,4 +80,4 @@ To execute the application:
 
 ---
 
-By following these steps, you should successfully set up and run the JavaScript-based personal LLM. For further assistance, consult the project's [GitHub repository](https://github.com/HardeepIjardar/GenAI).
+By following these steps, you should successfully set up and run the JavaScript-based personal LLM. For further assistance, consult the project's [GitHub repository](https://github.com/darshkalani28/OpenTalkJS).
