@@ -25,7 +25,7 @@ Before proceeding, ensure you have the following installed on your system:
    ```
 3. Clone the repository from GitHub:
    ```bash
-   git clone https://github.com/HardeepIjardar/GenAI.git
+   git clone https://github.com/darshkalani28/GenAI.git
    ```
 4. Navigate into the project directory:
    ```bash
@@ -60,7 +60,8 @@ To execute the application:
 
 ### 3.1 Create a Script File
 1. Create a new JavaScript file named `script.js` in the project directory.
-
+2. Create a new Input Text file named `q.txt` in the project directory.
+3. Create a new Output Text file named `a.txt` in the project directory.
 ---
 
 ### 3.2 Execute the Script
@@ -68,9 +69,8 @@ To execute the application:
    ```bash
    node script.js
    ```
-
-2. Monitor the terminal for output. If the setup is correct, you will see the chatbot's response or any relevant error messages.
-
+2. Monitor the terminal for any relevant error messages.
+3. If the setup is correct, you will see the chatbot's response in `a.txt` file.
 ---
 
 ## Troubleshooting
@@ -80,4 +80,4 @@ To execute the application:
 
 ---
 
-By following these steps, you should successfully set up and run the JavaScript-based personal LLM. For further assistance, consult the project's [GitHub repository](https://github.com/HardeepIjardar/GenAI).
+By following these steps, you should successfully set up and run the JavaScript-based personal LLM. For further assistance, consult the project's [GitHub repository](https://github.com/darshkalani28/OpenTalkJS).
